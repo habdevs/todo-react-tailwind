@@ -6,7 +6,7 @@ const data = [
   {
     _id: '1232141',
     title: 'Upload the project to Vercel',
-    isCompleted: false,
+    isCompleted: true,
   },
   {
     _id: '1232214',
