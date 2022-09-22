@@ -5,17 +5,17 @@ import CreateTodoField from './create-todo-field/CreateTodoField';
 const data = [
   {
     _id: '1232141',
-    title: 'Finish the essay collaboration',
+    title: 'Upload the project to Vercel',
     isCompleted: false,
   },
   {
     _id: '1232214',
-    title: 'Read next chapter of the book',
+    title: 'Develop a blog on react',
     isCompleted: false,
   },
   {
     _id: '1232114',
-    title: 'Send the finished assignment',
+    title: 'Learn it GraphQL',
     isCompleted: false,
   },
 ];
